@@ -2,7 +2,7 @@
 
 Welcome to the Tea-Ware license repository!
 
-It is a permissive license, and is intended for people that like tea (and hot chocolate).
+It is a permissive license, allowing to do whatever you want without even the need of attribution, and is intended for people that like tea (and hot chocolate).
 
 ## Full License
 
